@@ -3,7 +3,7 @@ plugins {
     application
 }
 application {
-    mainClass.set("MainKt")
+    mainClass.set("com.xingpeds.MainKt")
 }
 group = "com.xingpeds"
 version = "1.0-SNAPSHOT"
